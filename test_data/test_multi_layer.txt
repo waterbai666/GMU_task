@@ -1,0 +1,1863 @@
+SOCIAL O O 
+HISTORY O O 
+: O O 
+He O O 
+denies B-Status O 
+tobacco B-Tobacco O 
+or O O 
+alcohol B-Alcohol O 
+. O O 
+
+He B-Status O 
+has I-Status O 
+what O O 
+sounds O O 
+like O O 
+a O O 
+data B-Occupation B-Type 
+entry I-Occupation I-Type 
+computer I-Occupation I-Type 
+job I-Occupation I-Type 
+. O O 
+
+SOCIAL O O O O 
+HISTORY O O O O 
+: O O O O 
+She O O O O 
+lives B-LivingSituation B-Method B-Status O 
+with I-LivingSituation I-Method O O 
+her I-LivingSituation I-Method O O 
+husband I-LivingSituation I-Method B-Family B-Type 
+. O O O O 
+
+She O O O O 
+is O O O O 
+a O O O O 
+nonsmoker B-Tobacco B-Status O O 
+and O O O O 
+no B-Status O O O 
+history I-Status O O O 
+of O O O O 
+drug B-Drug O O O 
+or O O O O 
+alcohol B-Alcohol O O O 
+abuse B-Amount O O O 
+. O O O O 
+
+She O O O O 
+does O B-Status O O 
+drink B-Alcohol I-Status O O 
+two B-Amount O O O 
+to I-Amount O O O 
+three I-Amount O O O 
+drinks I-Amount O O O 
+daily B-Frequency O O O 
+. I-Frequency O O O 
+
+She O O O O 
+completed O O O O 
+12th O O O O 
+grade O O O O 
+. O O O O 
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+The O O 
+patient O O 
+is O O 
+a O O 
+nonsmoker B-Tobacco B-Status 
+. O O 
+
+She O O 
+is O O 
+accompanied O O 
+here O O 
+with O O 
+daughter B-Family B-Type 
+who O O 
+brought O O 
+her O O 
+over O O 
+here O O 
+. O O 
+
+They O O 
+were O O 
+visiting O O 
+the O O 
+patient O O 
+when O O 
+this O O 
+episode O O 
+occurred O O 
+. O O 
+
+SOCIAL O 
+HISTORY O 
+: O 
+Significant O 
+history B-Status 
+of I-Status 
+alcohol B-Alcohol 
+abuse B-Amount 
+, O 
+according O 
+to O 
+the O 
+emergency O 
+room O 
+physician O 
+, O 
+who O 
+sees O 
+her O 
+on O 
+a O 
+regular O 
+basis O 
+. O 
+
+SOCIAL O 
+HISTORY O 
+: O 
+Negative I-Status 
+for O 
+illicit B-Type 
+drugs B-Drug 
+, O 
+alcohol B-Alcohol 
+, O 
+and O 
+tobacco B-Tobacco 
+. O 
+
+SOCIAL O 
+HISTORY O 
+: O 
+Denies B-Status 
+tobacco B-Tobacco 
+or O 
+alcohol B-Alcohol 
+use O 
+. O 
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+He O O 
+is O O 
+a O O 
+tobacco B-Tobacco O 
+user B-Status O 
+. O O 
+
+He O O 
+does B-Status O 
+not I-Status O 
+drink B-Alcohol O 
+. O O 
+
+He O O 
+lives B-LivingSituation B-Status 
+alone B-Method O 
+, O O 
+but O O 
+has O O 
+family O O 
+and O O 
+social O O 
+support O O 
+to O O 
+look O O 
+on O O 
+him O O 
+. O O 
+
+SOCIAL O O O 
+HISTORY O O O 
+: O O O 
+She O O O 
+does B-Status O O 
+not I-Status O O 
+smoke B-Tobacco O O 
+cigarettes B-Type O O 
+, O O O 
+abuse B-Amount O O 
+alcohol B-Alcohol O O 
+, O O O 
+no B-Status O O 
+use I-Status O O 
+of O O O 
+illicit B-Type O O 
+drugs B-Drug O O 
+. O O O 
+
+She O O O 
+is O B-Status O 
+divorced B-MaritalStatus I-Status B-Type 
+and O O O 
+lives B-LivingSituation B-Method B-Status 
+alone I-LivingSituation I-Method O 
+and O O O 
+is O O O 
+a O O O 
+retired B-Occupation B-Method B-Status 
+laboratory I-Occupation B-Type O 
+technician I-Occupation I-Type O 
+from O O O 
+Cornell B-Location O O 
+Diagnostic I-Location O O 
+Laboratory I-Location O O 
+. O O O 
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+Mother B-Family B-Type 
+appears O O 
+loving O O 
+and O O 
+caring O O 
+. O O 
+
+There O O 
+is O O 
+no O O 
+evidence O O 
+of O O 
+abuse O O 
+. O O 
+
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+The O O 
+patient O O 
+lives B-Residence B-Status 
+here I-Residence O 
+locally I-Residence B-Location 
+. O O 
+
+She O O 
+does B-Status O 
+not I-Status O 
+report I-Status O 
+any O O 
+significant O O 
+alcohol B-Alcohol O 
+or O O 
+illicit B-Type O 
+drug B-Drug O 
+use O O 
+. O O 
+
+She O O 
+works B-Occupation B-Status 
+full B-Extent O 
+time I-Extent O 
+. O O 
+
+SOCIAL O O O 
+HISTORY O O O 
+: O O O 
+Lives B-LivingSituation B-Method B-Status 
+with O I-Method O 
+parents O I-Method O 
+and O I-Method O 
+with O I-Method O 
+two B-Amount I-Method O 
+siblings B-Family I-Method B-Type 
+, O O O 
+one O O O 
+18-year-old B-Amount O O 
+and O O O 
+the O O O 
+other O O O 
+is O O O 
+14-year-old B-Amount O O 
+in O O O 
+house B-Residence B-Status B-Type 
+, O O O 
+in B-Location O O 
+Corrales I-Location O O 
+. O O O 
+
+They O O O 
+have O O O 
+animals O O O 
+, O O O 
+but O O O 
+outside O O O 
+the O O O 
+house O O O 
+and O O O 
+father B-Family B-Type O 
+smokes B-Other O O 
+outside O O O 
+house O O O 
+. O O O 
+
+No O O O 
+sick O O O 
+contacts O O O 
+as O O O 
+the O O O 
+mother B-Family B-Type O 
+said O O O 
+. O O O 
+
+SOCIAL O O O 
+HISTORY O O O 
+: O O O 
+The O O O 
+patient O O O 
+is B-MaritalStatus B-Status O 
+married I-MaritalStatus B-Type O 
+. O O O 
+
+Wife B-Family B-Type O 
+is B-LivingStatus O O 
+living I-LivingStatus O O 
+and I-LivingStatus O O 
+well I-LivingStatus O O 
+. O O O 
+
+He O O O 
+jogs B-PhysicalActivity B-Type B-Status 
+or I-PhysicalActivity I-Type O 
+does I-PhysicalActivity I-Type O 
+Cross I-PhysicalActivity I-Type O 
+Country I-PhysicalActivity I-Type O 
+track O I-Type O 
+5 B-Frequency O O 
+times I-Frequency O O 
+a I-Frequency O O 
+week I-Frequency O O 
+, O O O 
+and O O O 
+weight B-PhysicalActivity B-Type B-Status 
+training I-PhysicalActivity I-Type I-Status 
+twice B-Frequency O O 
+weekly I-Frequency O O 
+. O O O 
+
+No B-Status O O 
+smoking B-Tobacco O O 
+or O O O 
+significant B-Amount O O 
+alcohol B-Alcohol O O 
+intake O O O 
+. O O O 
+
+He O O O 
+is B-Status O O 
+a O O O 
+physician B-Occupation B-Type O 
+in I-Occupation I-Type O 
+allergy/immunology I-Occupation I-Type O 
+. O O O 
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+The O O 
+patient O O 
+lives B-LivingSituation B-Status 
+by B-Method O 
+herself I-Method O 
+and O O 
+has O O 
+three O O 
+pet O O 
+cats O O 
+. O O 
+
+She O O 
+is O O 
+an O O 
+ex-smoker I-Tobacco B-Status O 
+, O O 
+quit O O 
+smoking O O 
+about O O 
+five B-QuitHistory O 
+years I-QuitHistory O 
+ago I-QuitHistory O 
+. O O 
+
+She O O 
+occasionally B-Frequency O 
+drinks B-Alcohol B-Status 
+a B-Amount O 
+glass I-Amount O 
+of O O 
+wine B-Type O 
+. O O 
+
+She O O 
+denies B-Status O 
+any O O 
+other O O 
+recreational B-Type O 
+drugs B-Drug O 
+use O O 
+. O O 
+
+She O O 
+recently O B-Status 
+retired B-Method I-Status 
+from O O 
+State B-Location O 
+of I-Location O 
+Pennsylvania I-Location O 
+as O O 
+a O O 
+psychiatric B-Occupation B-Type 
+aide I-Occupation I-Type 
+after B-Temporal O 
+32 I-Temporal O 
+years I-Temporal O 
+of O O 
+service O O 
+. O O 
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+He O O 
+lives B-LivingSituation B-Status 
+alone B-Method O 
+. O O 
+
+He O O 
+works B-Occupation B-Status 
+full B-Extent O 
+time I-Extent O 
+in O O 
+Human B-Type O 
+Resources I-Type O 
+for O O 
+the O O 
+State B-Location O 
+of I-Location O 
+Maryland I-Location O 
+. O O 
+
+He O O 
+previously O O 
+was B-Status O 
+an O O 
+alcoholic B-Alcohol O 
+, O O 
+but O O 
+quit O O 
+in O O 
+1984 B-QuitHistory O 
+. O O 
+
+He O O 
+also O O 
+quit B-Status O 
+smoking B-Tobacco O 
+cigarettes B-Type O 
+in O O 
+1984 B-QuitHistory O 
+, O O 
+after O O 
+16 B-ExposureHistory O 
+years I-ExposureHistory O 
+of I-ExposureHistory O 
+smoking I-ExposureHistory O 
+. O O 
+
+He O O 
+has O O 
+a O O 
+history B-Status O 
+of O O 
+illicit B-Type O 
+drug B-Drug O 
+use I-Drug O 
+, O O 
+but O O 
+denies B-Status O 
+IV B-Method O 
+drug B-Drug O 
+use I-Drug O 
+. O O 
+
+He O O 
+denies B-Status O 
+any O O 
+HIV B-InfectiousDiseases B-Type 
+risk I-InfectiousDiseases O 
+factors I-InfectiousDiseases O 
+and O O 
+states O O 
+that O O 
+his O O 
+last O O 
+HIV O O 
+test O O 
+was O O 
+over O O 
+two O O 
+years O O 
+ago O O 
+. O O 
+
+
+SOCIAL O O O 
+HISTORY O O O 
+: O O O 
+She B-Status O O 
+is I-Status O O 
+retired B-Occupation B-Method O 
+as I-Occupation O O 
+a I-Occupation O O 
+cook I-Occupation B-Type O 
+in B-Location O O 
+a I-Location O O 
+school I-Location O O 
+cafeteria I-Location O O 
+, O O O 
+where B-Temporal O O 
+she I-Temporal O O 
+worked I-Temporal O O 
+for I-Temporal O O 
+34 I-Temporal O O 
+years I-Temporal O O 
+. O O O 
+
+She O O O 
+retired B-Occupation B-Method B-Status 
+7 B-Temporal O O 
+years I-Temporal O O 
+ago I-Temporal O O 
+because O O O 
+of O O O 
+low O O O 
+back O O O 
+pain O O O 
+. O O O 
+
+She O O O 
+used O O O 
+to O O O 
+smoke B-Tobacco O O 
+2-1/2 B-Amount O O 
+packs I-Amount O O 
+per B-Frequency O O 
+day I-Frequency O O 
+for O O O 
+32 B-ExposureHistory O O 
+years I-ExposureHistory O O 
+, O O O 
+but O O O 
+quit B-Status O O 
+in O O O 
+1995 B-QuitHistory O O 
+. O O O 
+
+Denies B-Status O O 
+alcohol B-Alcohol O O 
+, O O O 
+and O O O 
+denies B-Status O O 
+IV B-Type B-Method O 
+or I-Type O O 
+illicit I-Type O O 
+drug B-Drug O O 
+use O O O 
+. O O O 
+
+SOCIAL O O O 
+HISTORY O O O 
+: O O O 
+The O O O 
+patient O O O 
+lives B-LivingSituation B-Method B-Status 
+with I-LivingSituation I-Method O 
+his I-LivingSituation I-Method O 
+girlfriend I-LivingSituation I-Method O 
+on I-LivingSituation O O 
+an I-LivingSituation O O 
+on-and-off I-LivingSituation B-Temporal O 
+basis I-LivingSituation I-Temporal O 
+and O O O 
+is O O O 
+unclear O O O 
+if O O O 
+they O O O 
+will O O O 
+be O O O 
+immediately O O O 
+moving O O O 
+back O O O 
+in O O O 
+together O O O 
+. O O O 
+
+SUBSTANCE O O O 
+ABUSE O O O 
+: O O O 
+The O O O 
+patient O O O 
+was O O O 
+actively O O O 
+tox I-Status O O 
+screen I-Status O O 
+positive I-Status O O 
+for O O O 
+benzodiazepines O O O 
+, I-Drug I-Type O 
+cocaine O O O 
+, I-Drug I-Type O 
+and O O O 
+marijuana O O O 
+. I-Drug I-Type O 
+
+The O O O 
+patient O O O 
+had O O O 
+an O O O 
+inpatient O O O 
+stay O O O 
+in O O O 
+2008 O O O 
+at O O O 
+ABC O O O 
+Lodge O O O 
+for O O O 
+drug O O O 
+abuse O O O 
+treatment O O O 
+. O O O 
+
+SOCIAL O 
+HISTORY O 
+: O 
+She O 
+does B-Status 
+not I-Status 
+drink B-Alcohol 
+or O 
+smoke B-Tobacco 
+. I-Tobacco 
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+She B-MaritalStatus O 
+is I-MaritalStatus B-Status 
+single I-MaritalStatus B-Type 
+. O O 
+
+She O B-Status 
+drinks B-Alcohol I-Status 
+alcohol I-Alcohol O 
+once B-Frequency O 
+a I-Frequency O 
+week I-Frequency O 
+. O O 
+
+She O O 
+does B-Status O 
+not I-Status O 
+smoke B-Tobacco O 
+. O O 
+
+SOCIAL O O O 
+HISTORY O O O 
+: O O O 
+The O O O 
+patient O O O 
+is O O B-Status 
+married B-MaritalStatus B-Type I-Status 
+. O O O 
+
+She O O O 
+is O O B-Status 
+an O O I-Status 
+office B-Occupation B-Type I-Status 
+manager I-Occupation I-Type I-Status 
+for O O O 
+a O O O 
+gravel B-Location O O 
+company I-Location O O 
+. O O O 
+
+Her O O O 
+spouse B-Family B-Type O 
+is O O O 
+also O O O 
+overweight B-MedicalCondition O O 
+. O O O 
+
+She O O O 
+drinks B-Alcohol B-Status O 
+on B-Frequency O O 
+a I-Frequency O O 
+weekly I-Frequency O O 
+basis I-Frequency O O 
+and O O O 
+she O O O 
+smokes B-Tobacco B-Status O 
+about O O O 
+two B-Amount O O 
+packs I-Amount O O 
+of O O O 
+cigarettes B-Type O O 
+over B-Frequency O O 
+a I-Frequency O O 
+week I-Frequency O O 
+'s I-Frequency O O 
+period I-Frequency O O 
+of I-Frequency O O 
+time I-Frequency O O 
+. O O O 
+
+She O O O 
+is O O O 
+doing O O O 
+this O O O 
+for B-ExposureHistory O O 
+about I-ExposureHistory O O 
+35 I-ExposureHistory O O 
+years I-ExposureHistory O O 
+. O O O 
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+She O O 
+is B-Status O 
+a I-Status O 
+single B-MaritalStatus B-Type 
+mother I-MaritalStatus I-Type 
+of O O 
+one B-Family B-Amount 
+adopted I-Family B-Type 
+child I-Family I-Type 
+. O O 
+
+SOCIAL O O O 
+HISTORY O O O 
+: O O O 
+The O O O 
+patient O O O 
+is O O B-Status 
+a O O I-Status 
+homemaker B-Occupation B-Type I-Status 
+. O O I-Status 
+
+She O O O 
+is B-Status O O 
+married I-Status B-MaritalStatus B-Type 
+, O I-MaritalStatus O 
+with O O O 
+2 B-Family B-Amount O 
+children I-Family B-Type O 
+aged O O O 
+22 O O O 
+and O O O 
+28 O O O 
+. O O O 
+
+She O O O 
+is O O O 
+a O O O 
+lifelong O O O 
+nonsmoker B-Status O O 
+and O O O 
+nondrinker I-Alcohol O O 
+. O O O 
+
+SOCIAL O O O 
+HISTORY O O O 
+: O O O 
+The O O O 
+patient O O O 
+is O O B-Status 
+married B-MaritalStatus B-Type I-Status 
+. O O O 
+
+She O O O 
+is B-Status O O 
+employed I-Status B-Occupation O 
+as O O O 
+an O O O 
+office B-Type O O 
+manager I-Type O O 
+. O O O 
+
+She O O O 
+does B-Status O O 
+smoke B-Tobacco O O 
+cigarettes B-Type O O 
+, O O O 
+one B-Amount O O 
+pack I-Amount O O 
+per B-Frequency O O 
+day I-Frequency O O 
+for B-ExposureHistory O O 
+the I-ExposureHistory O O 
+last I-ExposureHistory O O 
+20 I-ExposureHistory O O 
+years I-ExposureHistory O O 
+. O O O 
+
+She O O O 
+consumes B-Alcohol B-Status O 
+alcohol I-Alcohol O O 
+3 B-Amount O O 
+to I-Amount O O 
+5 I-Amount O O 
+drinks I-Amount O O 
+daily B-Frequency O O 
+. O O O 
+
+She O O O 
+uses B-Status O O 
+no I-Status O O 
+illicit B-Type O O 
+drugs B-Drug O O 
+. O O O 
+
+She O O O 
+exercises B-PhysicalActivity B-Status O 
+monthly B-Frequency O O 
+mainly O O O 
+walking B-Type O O 
+and I-Type O O 
+low I-Type O O 
+impact I-Type O O 
+aerobics I-Type O O 
+. O O O 
+
+She O O O 
+also O O O 
+likes O O B-Status 
+to O O I-Status 
+play B-PhysicalActivity B-Type I-Status 
+softball I-PhysicalActivity I-Type O 
+. O O O 
+
+SOCIAL O O O O 
+AND O O O O 
+DEVELOPMENTAL O O O O 
+HISTORY O O O O 
+: O O O O 
+The O O O O 
+patient O O O O 
+lives B-LivingSituation B-Method B-Status O 
+with I-LivingSituation I-Method O O 
+her I-LivingSituation I-Method O O 
+husband I-LivingSituation I-Method B-Family B-Type 
+. O O O O 
+
+There O O O O 
+are O O O O 
+no O O O O 
+children O O O O 
+. O O O O 
+
+She O O O O 
+reportedly O O O O 
+has O O O O 
+a O O O O 
+college O O O O 
+education O O O O 
+and O O O O 
+has O O O O 
+2 B-Family B-Amount O O 
+brothers I-Family B-Type O O 
+. I-Family O O O 
+
+
+PERSONAL O 
+HISTORY O 
+: O 
+She O 
+is O 
+a O 
+nonsmoker I-Tobacco 
+. O 
+
+Does B-Status 
+not I-Status 
+consume B-Alcohol 
+alcohol I-Alcohol 
+. O 
+
+No B-Status 
+history I-Status 
+of I-Status 
+recreational B-Type 
+drug B-Drug 
+use O 
+. O 
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+The O O 
+patient O O 
+smokes B-Tobacco B-Status 
+approximately B-Amount O 
+2 I-Amount O 
+packs I-Amount O 
+per B-Frequency O 
+day I-Frequency O 
+times O O 
+greater B-ExposureHistory O 
+than I-ExposureHistory O 
+40 I-ExposureHistory O 
+years I-ExposureHistory O 
+. O O 
+
+He O O 
+does O B-Status 
+drink B-Alcohol I-Status 
+occasional O O 
+alcohol O O 
+approximately O O 
+5 B-Amount O 
+to I-Amount O 
+6 I-Amount O 
+alcoholic B-Type O 
+drinks I-Type O 
+per B-Frequency O 
+month I-Frequency O 
+. O O 
+
+He O O 
+denies B-Status O 
+any O O 
+drug B-Drug O 
+use I-Drug O 
+. O O 
+
+He O O 
+is B-Status O 
+a I-Status O 
+retired B-Method O 
+liquor B-Type B-Occupation 
+store I-Type I-Occupation 
+owner I-Type I-Occupation 
+. O O 
+
+SOCIAL O 
+HISTORY O 
+: O 
+No B-Status 
+tobacco B-Tobacco 
+or O 
+alcohol B-Alcohol 
+. O 
+
+SOCIAL O O O 
+HISTORY O O O 
+: O O O 
+The O O O 
+patient O O O 
+is O O O 
+a O O O 
+nonsmoker I-Tobacco O O 
+. O O O 
+
+Denies B-Status O O 
+any I-Status O O 
+alcohol B-Alcohol O O 
+or O O O 
+illicit B-Type O O 
+drug B-Drug O O 
+use O O O 
+. O O O 
+
+The O O O 
+patient O O O 
+does O B-Status O 
+live B-LivingSituation I-Status B-Method 
+with I-LivingSituation O I-Method 
+his I-LivingSituation O I-Method 
+family I-LivingSituation O I-Method 
+. O O I-Method 
+
+SOCIAL O O O O 
+HISTORY O O O O 
+: O O O O 
+He O O O O 
+is O O O O 
+living B-LivingSituation B-Method B-Status O 
+with I-LivingSituation I-Method O O 
+his I-LivingSituation I-Method O O 
+wife I-LivingSituation I-Method B-Family B-Type 
+, O O O O 
+next O O O O 
+door O O O O 
+to O O O O 
+one O O O O 
+of O O O O 
+his O O O O 
+children B-Family B-Type O O 
+. O O O O 
+
+He O O O O 
+has O O O O 
+been O O O O 
+disabled O O O O 
+since O O O O 
+2001 O O O O 
+, O O O O 
+due O O O O 
+to O O O O 
+the O O O O 
+back O O O O 
+problems O O O O 
+. O O O O 
+
+FAMILY O O 
+HISTORY O O 
+AND O O 
+SOCIAL O O 
+HISTORY O O 
+: O O 
+Significant O O 
+for O O 
+Huntington B-MedicalCondition O 
+disease I-MedicalCondition O 
+in O O 
+her O O 
+mother B-Family B-Type 
+and O O 
+diabetes B-MedicalCondition O 
+in O O 
+her O O 
+father B-Family B-Type 
+. O O 
+
+Her O O 
+brother B-Family B-Type 
+has O O 
+an O O 
+aneurysm B-MedicalCondition O 
+. O O 
+
+She O O 
+does B-Status O 
+occasionally I-Status B-Frequency 
+smoke I-Status B-Tobacco 
+and O O 
+has O O 
+been O O 
+trying O O 
+to O O 
+quit O O 
+recently O O 
+. O O 
+
+She O O 
+is O O 
+currently B-Status O 
+smoking B-Tobacco O 
+about B-Amount O 
+a I-Amount O 
+pack I-Amount O 
+a B-Frequency O 
+day I-Frequency O 
+. O O 
+
+She O O 
+drinks B-Alcohol B-Status 
+about O O 
+once B-Frequency O 
+a I-Frequency O 
+week I-Frequency O 
+. O O 
+
+She O O 
+is O O 
+currently B-Status O 
+a O O 
+registered B-Type B-Occupation 
+nurse I-Type I-Occupation 
+, I-Type I-Occupation 
+circulator I-Type I-Occupation 
+, I-Type I-Occupation 
+and I-Type I-Occupation 
+scrub I-Type I-Occupation 
+technician I-Type I-Occupation 
+in O O 
+the O O 
+operating B-Location O 
+room I-Location O 
+at I-Location O 
+Hopkins I-Location O 
+. O O 
+
+She O O 
+has O O 
+no O O 
+children O O 
+. O O 
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+The O O 
+patient O O 
+does B-Status O 
+not I-Status O 
+smoke B-Tobacco O 
+. O O 
+
+She O O 
+does B-Status O 
+have I-Status O 
+an O O 
+occasional B-Frequency O 
+alcoholic B-Alcohol B-Type 
+beverage I-Alcohol I-Type 
+. O O 
+
+
+
+
+
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+No B-Status O 
+history I-Status O 
+of I-Status O 
+smoking B-Tobacco O 
+, O O 
+alcohol B-Alcohol O 
+, O O 
+or O O 
+drug B-Drug O 
+use O O 
+. O O 
+
+She O O 
+lives B-Residence B-Status 
+at I-Residence B-Type 
+home I-Residence I-Type 
+. I-Residence O 
+
+SOCIAL O O O 
+HISTORY O O O 
+: O O O 
+The O O O 
+patient O O O 
+does B-Status O O 
+not I-Status O O 
+smoke B-Tobacco O O 
+cigarettes B-Type O O 
+, O O O 
+abuse B-Frequency O O 
+alcohol B-Alcohol O O 
+nor O O O 
+drink O O O 
+any O O O 
+caffeine B-Drug B-Type O 
+. O O O 
+
+No B-Status O O 
+use I-Status O O 
+of O O O 
+illicit B-Drug B-Type O 
+drugs I-Drug O O 
+. O O O 
+
+He O O O 
+has O O O 
+been O O O 
+married B-MaritalStatus B-Status B-Type 
+for B-Temporal O O 
+22 I-Temporal O O 
+years I-Temporal O O 
+and O O O 
+he O O O 
+is O O O 
+actually O O O 
+accompanied O O O 
+throughout O O O 
+today O O O 
+'s O O O 
+cardiology O O O 
+consultation O O O 
+by O O O 
+his O O O 
+wife B-Family B-Type O 
+. O O O 
+
+He O O O 
+is O O O 
+not B-Status O O 
+participating I-Status O O 
+in O O O 
+regular O O O 
+exercises B-PhysicalActivity O O 
+now O O O 
+because O O O 
+he O O O 
+states O O O 
+since O O O 
+starting O O O 
+flecainide O O O 
+, O O O 
+he O O O 
+has O O O 
+gotten O O O 
+sluggish O O O 
+. O O O 
+
+He O O O 
+is O B-Status O 
+employed B-Occupation I-Status O 
+as O O O 
+an O O O 
+attorney B-Type O O 
+and O O O 
+while O O O 
+he O O O 
+states O O O 
+that O O O 
+overall O O O 
+his O O O 
+mental O O O 
+stress O O O 
+is O O O 
+better O O O 
+, O O O 
+he O O O 
+has O O O 
+noted O O O 
+more O O O 
+recent O O O 
+mental O O O 
+stress O O O 
+this O O O 
+past O O O 
+weekend O O O 
+when O O O 
+he O O O 
+was O O O 
+taking O O O 
+his O O O 
+daughter B-Family B-Type O 
+back O O O 
+to O O O 
+college O O O 
+. O O O 
+
+SOCIAL O O O 
+HISTORY O O O 
+: O O O 
+The O O O 
+patient O O O 
+is B-MaritalStatus B-Status O 
+married I-MaritalStatus B-Type O 
+. O O O 
+
+Lives B-LivingSituation B-Method B-Status 
+with I-LivingSituation I-Method O 
+her I-LivingSituation I-Method O 
+husband I-LivingSituation I-Method O 
+. O O O 
+
+They O O O 
+are O O O 
+retired B-Method B-Occupation B-Status 
+from O I-Occupation O 
+ABC B-Location I-Occupation O 
+. O O O 
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+The O O 
+patient O O 
+smokes B-Tobacco B-Status 
+one B-Amount O 
+pack I-Amount O 
+of O O 
+cigarettes B-Type O 
+per B-Frequency O 
+day I-Frequency O 
+and O O 
+takes B-Alcohol B-Status 
+drinks I-Alcohol O 
+on B-Frequency O 
+social I-Frequency O 
+occasions I-Frequency O 
+. O O 
+
+SOCIAL O 
+HISTORY O 
+: O 
+The O 
+patient O 
+does B-Status 
+not I-Status 
+smoke B-Tobacco 
+or O 
+take B-Alcohol 
+any I-Alcohol 
+drinks I-Alcohol 
+. O 
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+The O O 
+patient O O 
+is B-Status O 
+married B-MaritalStatus B-Type 
+. O O 
+
+He O O 
+had O O 
+1 B-Family B-Amount 
+child I-Family B-Type 
+who O O 
+died B-LivingStatus O 
+at I-LivingStatus O 
+the I-LivingStatus O 
+age I-LivingStatus O 
+of I-LivingStatus O 
+26 I-LivingStatus O 
+months I-LivingStatus O 
+of O O 
+unknown O O 
+etiology O O 
+. O O 
+
+He O O 
+quit B-Status O 
+smoking I-Status B-Tobacco 
+6 B-QuitHistory O 
+years I-QuitHistory O 
+ago I-QuitHistory O 
+but O O 
+dips B-Method B-Status 
+( O B-Type 
+smokeless O I-Type 
+) O I-Type 
+tobacco B-Tobacco I-Type 
+. O O 
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+The O O 
+patient O O 
+is B-Status O 
+single B-MaritalStatus B-Type 
+. O O 
+
+He O O 
+is B-Occupation B-Status 
+a I-Occupation O 
+student I-Occupation B-Type 
+. O I-Type 
+
+He O O 
+does B-Status O 
+not I-Status O 
+smoke B-Tobacco O 
+, O O 
+drink B-Alcohol O 
+alcohol I-Alcohol O 
+or O O 
+consume B-Drug O 
+drugs I-Drug O 
+. O O 
+
+SOCIAL O 
+HISTORY O 
+: O 
+He O 
+said O 
+he O 
+quit B-Status 
+smoking B-Tobacco 
+20 B-QuitHistory 
+years I-QuitHistory 
+ago I-QuitHistory 
+and O 
+does B-Status 
+not I-Status 
+drink O 
+alcohol B-Alcohol 
+. O 
+
+SOCIAL O O O 
+HISTORY O O O 
+: O O O 
+The O O O 
+patient O O O 
+is O O B-Status 
+a O O I-Status 
+widow B-MaritalStatus B-Type I-Status 
+. O O O 
+
+She O O O 
+lives B-LivingSituation B-Method B-Status 
+alone O I-Method O 
+. O O O 
+
+She O O O 
+does O O O 
+have O O O 
+three B-Family B-Amount O 
+daughters I-Family B-Type O 
+, O O O 
+two O O O 
+of O O O 
+them O O O 
+live O O O 
+in O O O 
+Georgia O O O 
+and O O O 
+one O O O 
+lives O O O 
+in O O O 
+Tennessee O O O 
+. O O O 
+
+She O O O 
+did O O O 
+smoke B-Tobacco O O 
+in B-Status O O 
+the I-Status O O 
+past I-Status O O 
+up O O O 
+to O O O 
+one B-Amount O O 
+to I-Amount O O 
+one I-Amount O O 
+and I-Amount O O 
+a I-Amount O O 
+half I-Amount O O 
+packs I-Amount O O 
+of O O O 
+cigarettes B-Type O O 
+per B-Frequency O O 
+day I-Frequency O O 
+for B-ExposureHistory O O 
+about I-ExposureHistory O O 
+10 I-ExposureHistory O O 
+years I-ExposureHistory O O 
+, O O O 
+but O O O 
+she O O O 
+quit O O O 
+long B-QuitHistory O O 
+time I-QuitHistory O O 
+ago I-QuitHistory O O 
+. O O O 
+
+She O O O 
+never B-Status O O 
+drank I-Status O O 
+any O O O 
+alcohol B-Alcohol O O 
+. O O O 
+
+She O O O 
+likes O O O 
+to O O O 
+drink O O O 
+one O O O 
+or O O O 
+two O O O 
+cups O O O 
+of O O O 
+tea O O O 
+in O O O 
+a O O O 
+day O O O 
+. O O O 
+
+SOCIAL O O O O 
+HISTORY O O O O 
+: O O O O 
+The O O O O 
+patient O O O O 
+is B-MaritalStatus B-Status O O 
+married I-MaritalStatus I-Status B-Type O 
+, O I-Status O O 
+lives B-LivingSituation B-Method B-Status O 
+with I-LivingSituation I-Method O O 
+her I-LivingSituation I-Method O O 
+husband I-LivingSituation I-Method B-Family B-Type 
+. O O O O 
+
+She O O O O 
+is O O O O 
+a O O O O 
+lifetime B-Status O O O 
+nonsmoker I-Tobacco O O O 
+, O O O O 
+nondrinker I-Alcohol O O O 
+. O O O O 
+
+She O O O O 
+has O O O O 
+not B-Status O O O 
+been I-Status O O O 
+getting I-Status O O O 
+regular B-PhysicalActivity B-Type O O 
+exercise I-PhysicalActivity I-Type O O 
+for B-Temporal O O O 
+approximately I-Temporal O O O 
+two I-Temporal O O O 
+years I-Temporal O O O 
+due O O O O 
+to O O O O 
+chronic O O O O 
+sciatic O O O O 
+pain O O O O 
+. O O O O 
+
+SOCIAL O O O O 
+HISTORY O O O O 
+: O O O O 
+The O O O O 
+patient O O O O 
+is B-MaritalStatus B-Status O O 
+married I-MaritalStatus I-Status B-Type O 
+. O O O O 
+
+He O O O O 
+lives B-LivingSituation B-Status B-Method O 
+with I-LivingSituation O I-Method O 
+his I-LivingSituation O I-Method O 
+wife I-LivingSituation B-Family I-Method B-Type 
+. O O I-Method O 
+
+He O O O O 
+is O B-Status O O 
+employed B-Occupation I-Status O O 
+as O O O O 
+a O O O O 
+barber B-Type O O O 
+. O O O O 
+
+He O O O O 
+does B-Status O O O 
+not I-Status O O O 
+use I-Status O O O 
+alcohol B-Alcohol O O O 
+, O O O O 
+tobacco B-Tobacco O O O 
+, O O O O 
+or O O O O 
+illicit B-Type O O O 
+drugs B-Drug O O O 
+. I-Drug O O O 
+
+SOCIAL O O O 
+HISTORY O O O 
+: O O O 
+She O O O 
+lives B-LivingSituation B-Status B-Method 
+with I-LivingSituation I-Status I-Method 
+husband B-Family B-Type I-Method 
+, O O O 
+who B-Amount O O 
+is I-Amount O O 
+elderly I-Amount O O 
+, O O O 
+can B-LivingStatus O O 
+not I-LivingStatus O O 
+take I-LivingStatus O O 
+care I-LivingStatus O O 
+of I-LivingStatus O O 
+her I-LivingStatus O O 
+. O O O 
+
+She O O O 
+does B-Status O O 
+not I-Status O O 
+smoke B-Tobacco O O 
+or O O O 
+drink B-Alcohol O O 
+alcohol I-Alcohol O O 
+currently O O O 
+. O O O 
+
+SOCIAL O O O 
+HISTORY O O O 
+: O O O 
+He O O O 
+smokes B-Tobacco B-Status O 
+one-and-one-half-packs B-Amount O O 
+of O O O 
+cigarettes B-Type O O 
+per B-Frequency O O 
+day I-Frequency O O 
+and O O O 
+drinks B-Alcohol B-Status O 
+alcohol I-Alcohol O O 
+at O O O 
+least O O O 
+several B-Frequency O O 
+days I-Frequency O O 
+per I-Frequency O O 
+week I-Frequency O O 
+. O O O 
+
+He O O O 
+is O B-Status O 
+employed B-Occupation I-Status O 
+in I-Occupation B-Type O 
+sales I-Occupation I-Type O 
+, O O O 
+which O O O 
+requires O O O 
+quite B-PhysicalActivity B-Amount B-Status 
+a I-PhysicalActivity I-Amount I-Status 
+bit I-PhysicalActivity I-Amount I-Status 
+of I-PhysicalActivity O I-Status 
+walking I-PhysicalActivity B-Type I-Status 
+, O I-Type O 
+but O O O 
+he O O O 
+is O O O 
+not O O O 
+doing O O O 
+any O O O 
+lifting O O O 
+. O O O 
+
+He O O O 
+had O O O 
+been O O O 
+a O O O 
+golfer O O O 
+in O O O 
+the O O O 
+past O O O 
+. O O O 
+
+ALLERGIES O O 
+: O O 
+Penicillin O O 
+and O O 
+aspirin O O 
+. O O 
+
+Family O O 
+history O O 
+, O O 
+social O O 
+history O O 
+, O O 
+and O O 
+review O O 
+of O O 
+systems O O 
+are O O 
+discussed O O 
+above O O 
+as O O 
+well O O 
+as O O 
+documented O O 
+in O O 
+the O O 
+new O O 
+patient O O 
+information O O 
+sheet O O 
+. O O 
+
+Of O O 
+note O O 
+, O O 
+she O O 
+does O O 
+not I-Status O 
+drink O O 
+or O O 
+smoke O O 
+. I-Tobacco O 
+
+She O O 
+is O O 
+married I-MaritalStatus O 
+with O O 
+two O O 
+adopted I-Family O 
+children I-Family I-Type 
+. I-Family I-Type 
+
+She O O 
+is O O 
+a O O 
+paralegal O O 
+specialist I-Occupation I-Type 
+. I-Occupation I-Type 
+
+She O O 
+used O O 
+to I-Status O 
+exercise O O 
+vigorously O O 
+, I-Amount O 
+but O O 
+of O O 
+late O O 
+has O O 
+been O O 
+advised O O 
+to O O 
+stop O O 
+exercising O O 
+and O O 
+is O O 
+currently O O 
+only O O 
+walking O O 
+. I-PhysicalActivity I-Type 
+
+PALPITATIONS O O 
+HISTORY O O 
+: O O 
+Palpitations O O 
+- O O 
+frequent O O 
+, O O 
+2 O O 
+x O O 
+per O O 
+week O O 
+. O O 
+
+No B-Status O 
+caffeine B-Drug B-Type 
+, O O 
+no B-Status O 
+ETOH B-Alcohol B-Type 
+. O O 
+
++ O O 
+stress O O 
+. O O 
+
+No O O 
+change O O 
+with O O 
+Inderal O O 
+. O O 
+
+
+
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+Patient O O 
+admits B-Status O 
+caffeine B-Drug B-Type 
+use O O 
+She O O 
+consumes O O 
+3-5 B-Amount O 
+servings I-Amount O 
+per B-Frequency O 
+day I-Frequency O 
+, O O 
+Patient O O 
+admits B-Status O 
+alcohol B-Alcohol O 
+use O O 
+Drinking O O 
+is O O 
+described O O 
+as O O 
+social B-Frequency O 
+, O O 
+Patient O O 
+admits O O 
+good O O 
+diet O O 
+habits O O 
+, O O 
+Patient O O 
+admits B-Status O 
+exercising B-PhysicalActivity O 
+regularly B-Frequency O 
+, O O 
+Patient O O 
+denies B-Status O 
+STD B-InfectiousDiseases B-Type 
+history I-InfectiousDiseases I-Type 
+. O O 
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+No B-Status O 
+known I-Status O 
+history I-Status O 
+of O O 
+drug B-Drug O 
+or O O 
+alcohol B-Alcohol O 
+abuse B-Amount O 
+. O O 
+
+Work O O 
+, O O 
+diet O O 
+, O O 
+and O O 
+exercise B-PhysicalActivity B-Status 
+patterns I-PhysicalActivity I-Status 
+are O I-Status 
+within B-Amount I-Status 
+normal I-Amount I-Status 
+limits I-Amount I-Status 
+. O O 
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+Denies B-Status O 
+alcohol B-Alcohol O 
+or O O 
+drugs B-Drug O 
+. O O 
+
+Smokes B-Tobacco B-Status 
+2 B-Amount O 
+packs I-Amount O 
+of O O 
+cigarettes B-Type O 
+per B-Frequency O 
+day I-Frequency O 
+. O O 
+
+Works B-Occupation B-Status 
+as O O 
+a O O 
+banker B-Type O 
+. I-Type O 
+
+
+
+
+
+
+
+
+
