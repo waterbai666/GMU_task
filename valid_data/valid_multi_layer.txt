@@ -1,0 +1,811 @@
+SOCIAL O O 
+HISTORY O O 
+: O O 
+Denies B-Status O 
+using I-Status O 
+caffeinated B-Drug B-Type 
+beverages I-Drug I-Type 
+, O O 
+alcohol B-Alcohol O 
+or O O 
+the O O 
+use O O 
+of O O 
+any B-Tobacco O 
+tobacco I-Tobacco O 
+products O O 
+. O O 
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+She O O 
+does B-Status O 
+not I-Status O 
+smoke B-Tobacco O 
+or O O 
+drink B-Alcohol O 
+. O O 
+
+She O O 
+is B-MaritalStatus B-Status 
+married I-MaritalStatus B-Type 
+with O O 
+two B-Family B-Amount 
+children I-Family B-Type 
+. O O 
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+The O O 
+patient B-MaritalStatus O 
+is I-MaritalStatus B-Status 
+married I-MaritalStatus B-Type 
+. O O 
+
+He O B-Status 
+works B-Occupation I-Status 
+as I-Occupation O 
+a I-Occupation O 
+truck I-Occupation B-Type 
+driver I-Occupation I-Type 
+and O O 
+he B-Location O 
+drives I-Location O 
+in I-Location O 
+town I-Location O 
+. O O 
+
+He O O 
+smokes B-Tobacco B-Status 
+two B-Amount O 
+packs I-Amount O 
+a B-Frequency O 
+day I-Frequency O 
+and O O 
+he O O 
+has B-Status O 
+two B-Amount B-Alcohol 
+beers B-Type I-Alcohol 
+a B-Frequency I-Alcohol 
+day I-Frequency I-Alcohol 
+he O O 
+says O O 
+, O O 
+but O O 
+not B-Status O 
+consuming I-Status O 
+illegal B-Type O 
+drugs B-Drug O 
+. O O 
+
+SOCIAL O O O 
+HISTORY O O O 
+: O O O 
+The O O O 
+patient O O O 
+has O O O 
+been O O O 
+married B-MaritalStatus B-Status B-Type 
+to O O O 
+her O O O 
+second B-Amount B-Family O 
+husband I-Amount I-Family B-Type 
+for B-Temporal O O 
+the I-Temporal O O 
+past I-Temporal O O 
+ten I-Temporal O O 
+years I-Temporal O O 
+. O O O 
+
+Her O O O 
+first B-Family O O 
+husband I-Family B-Type O 
+died B-LivingStatus O O 
+in B-Temporal O O 
+1995 I-Temporal O O 
+. O O O 
+
+She O O O 
+does B-Status O O 
+not I-Status O O 
+have O O O 
+a O O O 
+smoking B-Tobacco O O 
+history O O O 
+and O O O 
+does B-Status O O 
+not I-Status O O 
+drink B-Alcohol O O 
+alcohol I-Alcohol O O 
+. O O O 
+
+SOCIAL O O O 
+HISTORY O O O 
+: O O O 
+He O O O 
+lives B-Residence B-Status O 
+here O O O 
+in O O O 
+ABCD B-Location O O 
+. O O O 
+
+He O O O 
+is O B-Status O 
+employed B-Occupation I-Status B-Method 
+at O O O 
+the O O O 
+sales B-Type O O 
+counter I-Type O O 
+of O O O 
+a O O O 
+local B-Location O O 
+butcher I-Location O O 
+shop I-Location O O 
+. O O O 
+
+He O O O 
+continues B-Status O O 
+to I-Status O O 
+smoke B-Tobacco O O 
+one B-Amount O O 
+pack I-Amount O O 
+of O O O 
+cigarettes B-Type O O 
+daily B-Frequency O O 
+, O O O 
+as O O O 
+he O O O 
+has O O O 
+for B-ExposureHistory O O 
+the I-ExposureHistory O O 
+past I-ExposureHistory O O 
+28 I-ExposureHistory O O 
+years I-ExposureHistory O O 
+. O O O 
+
+He O O O 
+denies B-Status O O 
+any O O O 
+alcohol B-Alcohol O O 
+or O O O 
+illicit B-Drug B-Type O 
+substances I-Drug O O 
+. O O O 
+
+SOCIAL O 
+HISTORY O 
+: O 
+The O 
+patient O 
+is O 
+not O 
+in O 
+daycare O 
+. O 
+
+There O 
+are O 
+no O 
+pets O 
+in O 
+the O 
+home O 
+. O 
+
+There O 
+is O 
+no B-Status 
+secondhand B-Type 
+tobacco B-Tobacco 
+exposure O 
+. O 
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+The O O 
+patient O O 
+used B-Status O 
+to I-Status O 
+smoke I-Status B-Tobacco 
+cigarettes B-Type O 
+for B-ExposureHistory O 
+about I-ExposureHistory O 
+20 I-ExposureHistory O 
+years I-ExposureHistory O 
+, O O 
+one-half B-Amount O 
+pack I-Amount O 
+a B-Frequency O 
+day I-Frequency O 
+. O O 
+
+She O O 
+currently O O 
+does O O 
+not O O 
+, O O 
+which O O 
+was O O 
+encouraged O O 
+to O O 
+continue O O 
+. O O 
+
+She O O 
+rarely B-Frequency O 
+drinks B-Alcohol B-Status 
+any I-Alcohol O 
+alcohol-containing I-Alcohol B-Type 
+beverages I-Alcohol I-Type 
+. O O 
+
+SOCIAL O O O 
+HISTORY O O O 
+: O O O 
+She O O O 
+smoked B-Status B-Tobacco O 
+cigarettes B-Type O O 
+socially B-Amount O O 
+while B-ExposureHistory O O 
+in I-ExposureHistory O O 
+her I-ExposureHistory O O 
+20s I-ExposureHistory O O 
+. O O O 
+
+A B-Amount O O 
+pack I-Amount O O 
+of O O O 
+cigarettes B-Type O O 
+would B-Tobacco B-Status O 
+last O O O 
+for B-Frequency O O 
+more I-Frequency O O 
+than I-Frequency O O 
+a I-Frequency O O 
+week I-Frequency O O 
+. O O O 
+
+She O O O 
+does B-Status O O 
+not I-Status O O 
+smoke B-Tobacco O O 
+now O O O 
+. O O O 
+
+She B-Status O O 
+has I-Status B-Alcohol O 
+two B-Amount O O 
+glasses I-Amount O O 
+of O O O 
+wine B-Type O O 
+per B-Frequency O O 
+day I-Frequency O O 
+, O O O 
+both O O O 
+red O O O 
+and O O O 
+white O O O 
+wine O O O 
+. O O O 
+
+She O O O 
+is O B-Status O 
+married B-MaritalStatus I-Status B-Type 
+and O O O 
+has O O O 
+no O O O 
+children O O O 
+. O O O 
+
+An O O O 
+IUD O O O 
+was O O O 
+recently O O O 
+placed O O O 
+. O O O 
+
+She O O O 
+works B-Occupation B-Status O 
+as O O O 
+an O O O 
+esthetician B-Type O O 
+. O O O 
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+Does B-Status O 
+not I-Status O 
+smoke B-Tobacco O 
+, O O 
+but O O 
+drinks B-Alcohol B-Status 
+occasionally B-Frequency O 
+for B-ExposureHistory O 
+the I-ExposureHistory O 
+last I-ExposureHistory O 
+five I-ExposureHistory O 
+years I-ExposureHistory O 
+. O O 
+
+SOCIAL O O O 
+HISTORY O O O 
+: O O O 
+The O O O 
+patient O O O 
+is B-MaritalStatus B-Status O 
+married I-MaritalStatus I-Status B-Type 
+. O O O 
+
+She O O O 
+was O O O 
+born O O O 
+and O O O 
+raised O O O 
+in O O O 
+South O O O 
+Dakota O O O 
+. O O O 
+
+She O O O 
+moved O O O 
+to O O O 
+Colorado O O O 
+37 O O O 
+years O O O 
+ago O O O 
+. O O O 
+
+She O O O 
+attended O O O 
+collage O O O 
+at O O O 
+the O O O 
+Colorado O O O 
+University O O O 
+. O O O 
+
+She O O O 
+is O O O 
+certified B-Occupation B-Type O 
+public I-Occupation I-Type O 
+account I-Occupation I-Type O 
+. I-Occupation I-Type O 
+
+She O O O 
+does B-Status O O 
+not I-Status O O 
+smoke B-Tobacco O O 
+. O O O 
+
+She O O O 
+drinks B-Alcohol B-Status O 
+socially B-Amount O O 
+. I-Amount O O 
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+She O O 
+does B-Status O 
+not I-Status O 
+smoke B-Tobacco O 
+. O O 
+
+She O O 
+takes B-Status B-Alcohol 
+one B-Amount O 
+glass I-Amount O 
+of O O 
+wine B-Type O 
+per B-Frequency O 
+day I-Frequency O 
+. I-Frequency O 
+
+SOCIAL O O O 
+HISTORY O O O 
+: O O O 
+At O O O 
+home O O O 
+lives B-LivingSituation B-Method B-Status 
+mom B-Type I-Method O 
+, O I-Method O 
+dad B-Type I-Method O 
+, O I-Method O 
+a O I-Method O 
+2-1/2-year-old B-Amount I-Method O 
+brother O I-Method O 
+, O I-Method O 
+and O I-Method O 
+a O I-Method O 
+5-1/2-year-old B-Amount I-Method O 
+maternal O I-Method O 
+stepbrother O I-Method O 
+. O O O 
+
+Both O O O 
+brothers B-Family B-Type O 
+at O O O 
+home O O O 
+are O O O 
+sick B-MedicalCondition B-LivingStatus O 
+with I-MedicalCondition O O 
+cold I-MedicalCondition O O 
+symptoms I-MedicalCondition O O 
+including I-MedicalCondition O O 
+diarrhea I-MedicalCondition O O 
+and I-MedicalCondition O O 
+vomiting I-MedicalCondition O O 
+. O O O 
+
+The O O O 
+brother O O O 
+( O O O 
+2-1/2-year-old O O O 
+) O O O 
+was O O O 
+seen O O O 
+in O O O 
+the O O O 
+ER O O O 
+tonight O O O 
+with O O O 
+this O O O 
+patient O O O 
+and O O O 
+discharged O O O 
+home O O O 
+with O O O 
+an O O O 
+albuterol O O O 
+prescription O O O 
+. O O O 
+
+A O O O 
+nephew O O O 
+of O O O 
+the O O O 
+mom O O O 
+with O O O 
+an O O O 
+ear O O O 
+infection O O O 
+. O O O 
+
+Mom O O O 
+also O O O 
+states O O O 
+that O O O 
+she O O O 
+herself O O O 
+was O O O 
+sick O O O 
+with O O O 
+the O O O 
+flu O O O 
+soon O O O 
+after O O O 
+delivery O O O 
+. O O O 
+
+There O O O 
+has O O O 
+been O O O 
+recent O O O 
+travel O O O 
+exposure O O O 
+to O O O 
+dad O O O 
+'s O O O 
+family O O O 
+over O O O 
+the O O O 
+Christmas O O O 
+holidays O O O 
+. O O O 
+
+At O O O 
+this O O O 
+time O O O 
+, O O O 
+there O O O 
+is O O O 
+also O O O 
+exposure O O O 
+to O O O 
+indoor O O O 
+cats O O O 
+and O O O 
+dogs O O O 
+. O O O 
+
+This O O O 
+patient O O O 
+also O O O 
+has O O O 
+positive O O O 
+smoking B-Other O O 
+exposure I-Other O O 
+coming O O O 
+from O O O 
+mom B-Family B-Type O 
+. O O O 
+
+SOCIAL O O O 
+HISTORY O O O 
+: O O O 
+She O O O 
+lives B-LivingSituation B-Method B-Status 
+with O I-Method O 
+mom O I-Method O 
+, O I-Method O 
+sister O I-Method O 
+, O I-Method O 
+and O I-Method O 
+her O I-Method O 
+grandparent O I-Method O 
+. O I-Method O 
+
+
+
+
+
+PERSONAL O O 
+HISTORY O O 
+: O O 
+She O O 
+is B-Status O 
+married B-MaritalStatus B-Type 
+, O O 
+nonsmoker I-Tobacco O 
+. O O 
+
+Does B-Status O 
+not I-Status O 
+consume I-Status O 
+alcohol B-Alcohol O 
+. I-Alcohol O 
+
+No B-Status O 
+history I-Status O 
+of I-Status O 
+recreational B-Type O 
+drug B-Drug O 
+use O O 
+. O O 
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+Significant O O 
+for O O 
+her O O 
+being O O 
+without O O 
+a O O 
+companion O O 
+at O O 
+this O O 
+point O O 
+. O O 
+
+She O O 
+was O O 
+born O O 
+in O O 
+Munich O O 
+, O O 
+Germany O O 
+. O O 
+
+She O O 
+immigrated O O 
+to O O 
+of O O 
+America O O 
+in O O 
+1957 O O 
+after O O 
+her O O 
+family O O 
+had O O 
+to O O 
+move O O 
+to O O 
+Eastern O O 
+Germany O O 
+, O O 
+which O O 
+was O O 
+under O O 
+Russian O O 
+occupation O O 
+at O O 
+that O O 
+time O O 
+. O O 
+
+She O O 
+is B-MaritalStatus B-Status 
+divorced I-MaritalStatus B-Type 
+. O O 
+
+She O O 
+used B-Status O 
+to I-Status O 
+work I-Status B-Occupation 
+as O O 
+a O O 
+secretary B-Type O 
+and O O 
+later B-Status O 
+worked I-Status B-Occupation 
+as O O 
+a O O 
+clerical B-Type O 
+worker I-Type O 
+at O O 
+IBM B-Location O 
+. O O 
+
+She O O 
+stopped B-Status B-Occupation 
+working I-Status I-Occupation 
+more B-Temporal I-Occupation 
+than I-Temporal I-Occupation 
+20 I-Temporal I-Occupation 
+years I-Temporal I-Occupation 
+ago I-Temporal I-Occupation 
+due O I-Occupation 
+to O I-Occupation 
+complications O I-Occupation 
+from O I-Occupation 
+her O I-Occupation 
+mesothelioma O I-Occupation 
+. O I-Occupation 
+
+She O O 
+denies B-Status O 
+any I-Status O 
+significant B-Amount O 
+tobacco B-Tobacco O 
+, I-Tobacco O 
+alcohol B-Alcohol O 
+or O O 
+illicit B-Type O 
+drugs B-Drug O 
+. I-Drug O 
+
+She O O 
+is O O 
+bilingual O O 
+speaking O O 
+, O O 
+German O O 
+and O O 
+English O O 
+. O O 
+
+She O O 
+has O O 
+known O O 
+English O O 
+from O O 
+before O O 
+her O O 
+teens O O 
+. O O 
+
+She O O 
+has O O 
+the O O 
+equivalent O O 
+of O O 
+a O O 
+high O O 
+school O O 
+education O O 
+in O O 
+Germany O O 
+. O O 
+
+She O O 
+has O O 
+one B-Family B-Amount 
+brother I-Family B-Type 
+and O O 
+one B-Family B-Amount 
+sister I-Family B-Type 
+, I-Family I-Type 
+both O O 
+of O O 
+whom O O 
+are B-LivingStatus O 
+healthy I-LivingStatus O 
+and O O 
+she O O 
+does O O 
+not O O 
+spend O O 
+much O O 
+time O O 
+communicating O O 
+with O O 
+them O O 
+. O O 
+
+She O O 
+has O O 
+one B-Family B-Amount 
+son I-Family B-Type 
+who O O 
+lives O O 
+in O O 
+Santa O O 
+Cruz O O 
+. O O 
+
+He O O 
+has O O 
+grandchildren O O 
+. O O 
+
+She O O 
+is O O 
+trying O O 
+to O O 
+contact O O 
+with O O 
+her O O 
+grandchildren O O 
+. O O 
+
+SOCIAL O O 
+HISTORY O O 
+: O O 
+The O O 
+patient O O 
+is O B-Status 
+a O I-Status 
+resident B-Residence I-Status 
+of I-Residence I-Status 
+Lake I-Residence B-Location 
+Harris I-Residence I-Location 
+Port I-Residence I-Location 
+Square I-Residence I-Location 
+. O O 
+
+She O O 
+has O O 
+no B-Status O 
+history I-Status O 
+of I-Status O 
+alcohol B-Alcohol O 
+use O O 
+. O O 
+
+PERSONAL O O O 
+HISTORY O O O 
+: O O O 
+Married B-MaritalStatus B-Type B-Status 
+, O O O 
+ex-smoker B-Status I-Tobacco O 
+, O O O 
+and O O O 
+does B-Status O O 
+not I-Status O O 
+consume B-Alcohol O O 
+alcohol I-Alcohol O O 
+. O O O 
+
+No B-Status O O 
+history I-Status O O 
+of I-Status O O 
+recreational B-Type O O 
+drug B-Drug O O 
+use I-Drug O O 
+. I-Drug O O 
+
